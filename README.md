@@ -5,4 +5,4 @@
   <li>JAVASCRIPT</li>
 </ul>
 <br/>
-<p>A short code for calculatiing amount of tickets and available prizes.</p>
+<p>A short code for calculating amount of tickets and available prizes.</p>
